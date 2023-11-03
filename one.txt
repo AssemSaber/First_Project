@@ -1,6 +1,3 @@
 "I have a stomic ache"
-<<<<<<< HEAD
 "and I become sad"
-=======
 "but now I am happy "
->>>>>>> assemStyle
